@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all sorts of stuff but one of my focuses at the moment is IaC, the likes of Terraform and Azure Bicep.
 - 💞️ I’m looking to collaborate on Azure projects and anything Microsoft Cloud focused.
 - 📫 How to reach me: Twitter <a href=https://twitter.com/anthonymashford>@anthonymashford</a>
-- 🌐 Blog: <a href=https://blog.mashfords.com>here</a>
+- 🌐 Blog: <a href=https://azuretechlab.com>here</a>
 - 💬 Reach out for a chat
 - ✨ Fun fact: My first job was working as a fisherman 🐠
 
